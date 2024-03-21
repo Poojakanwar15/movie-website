@@ -1,0 +1,26 @@
+.header {
+  background-color: var(--seconday-color);
+  height: 72px;
+  padding: 0px 40px;
+  display: flex;
+  align-items: center;
+  
+}
+
+.logo {
+  color: var(--font-primary);
+  font-size: 20px;
+  font-weight: 600;
+}
+.logo2 {
+  color: var(--font-primary);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.user-image,
+.user-image img {
+  width: 38px;
+  height: 38px;
+  border-radius: 15px;
+}

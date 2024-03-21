@@ -1,0 +1,33 @@
+.movie-datail-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Movie-Conatiner img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+}
+
+.Movie h2 {
+  color: white;
+}
+.movie-detail {
+  color: antiquewhite;
+  margin: 20px;
+  padding: 20px;
+}
+
+.movie-detail h2 {
+  margin: 20px;
+  padding: 20px;
+}
+
+.movie-detail h1,
+h5,
+p {
+  padding-left: 35px;
+}
